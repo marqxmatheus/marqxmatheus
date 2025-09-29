@@ -1,8 +1,7 @@
-### Olá! Me chamo Matheus Caetano.
+### Olá! Me chamo Matheus
 
 🎓 Atualmente estou cursando o **2º semestre de Análise e Desenvolvimento de Sistemas** pela **UMFG**.  
-💻 Apaixonado por tecnologia, programação e desenvolvimento de software.  
-🚀 Sempre em busca de aprender mais e aplicar o conhecimento em projetos práticos.
+💻 Buscando me aprimorar cada vez mais na área de TI.
 
 ---
 
