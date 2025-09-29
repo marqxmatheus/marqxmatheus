@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](  
+- [LinkedIn](https://www.linkedin.com/in/matheus-caetano-marques-34bb18269)  
 - [E-mail](matheus.marques5215@gmail.com) 
  
  
