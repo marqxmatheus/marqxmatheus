@@ -10,6 +10,8 @@
 - Estruturas de dados    
 - Desenvolvimento web
 - Back-End em Java
+- Análises e projetos de Sistemas
+- Interação Usuário Dispositivo Tecnológico
 
 ---
 
